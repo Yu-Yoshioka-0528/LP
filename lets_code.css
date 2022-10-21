@@ -1,0 +1,187 @@
+header{
+    display: flex;
+    height: 40px;
+}
+
+.logo-png{
+    width: 5%;
+}
+
+header > p{
+    margin-top: 0;
+    font-size: 30px;
+}
+
+.first{
+    width: 100%;
+    display: flex;
+}
+
+img.pc{
+    width: 774px;
+    height: 504px;
+    margin-left: 0;
+}
+
+.first > p{
+    margin: 0;
+    width: 666px;
+    height: 504px;
+    font-size: 92px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #05ff00;
+}
+
+h1{
+    text-align: center;
+    margin: 10% auto;
+    font-size: 48px;
+    font-weight: 100;
+    color: #333;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: 300;
+    color: #333;
+}
+
+.ad-title{
+    font-size: 32px;
+    font-weight: 300;
+    color: #333;
+}
+
+
+
+.section-content{
+    margin-left:220px ;
+    width: 1000px;
+}
+
+.section-content.p{
+    font-size: 18px;
+    margin: 0;
+}
+
+section.lang >*> div{
+    width: 100%;
+    height: 267px;
+}
+
+.lang-text{
+    width: 40%;
+}
+
+.lang-title{
+    height: 58px;
+    padding-left: 1%;
+    text-align: center;
+    margin: auto;
+}
+
+section.lang >*>*>*> p{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.lang-content{
+    display: flex;
+}
+
+img.lang-tool{
+    width: 40%;
+    height: 50%;
+}
+
+.ad-content{
+    display: flex;
+    margin-bottom: 10%;
+}
+
+.ad-png{
+    width: 40%;
+}
+
+.ad-3-1-png{
+    width: 15%;
+    height: 1%;
+}
+
+.ad-3-2-png{
+    width: 20%;
+    height: 30%;
+    margin-left: 50px;
+}
+
+.ad-content > p{
+    width: 28%;
+    margin: 0 auto;
+}
+
+section.ad >*>*> p{
+    width: 28%;
+}
+
+.foot > div{
+    display: flex;
+    margin-left:220px;
+    width:1000px;
+}
+
+.foot-content-1{
+    margin-left: 0;
+    padding-left: 0;
+    width: 30%;
+    background-color: #fff263;    
+}
+
+.foot-content-1 > h4{
+    margin:0 0 0 30%;
+}
+
+.foot-content-1 > p{
+    margin-top: 10%;
+}
+
+.foot-content-2{
+    width: 30%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #aeea00;
+}
+
+.foot-content-2 > p{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.foot-content-3{
+    margin-right: 0;
+    width: 30%;
+    background-color: #fbc02d;
+}
+
+.foot-content-3 > h4{
+    width: 40%;
+    text-align: center;
+}
+
+.foot-content-3 > p{
+    margin-top: 10%;
+}
+
+.foot >*>*> p{
+    width: 240px;
+    margin: 10% auto 0;
+}
+
+h4{
+    margin: 0 20%;
+    padding: auto;
+    width: 23%;
+    height: 20%;
+    text-align: center;
+}
