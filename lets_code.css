@@ -434,13 +434,18 @@ h4{
         display: none;
     }
 
+    #appeal{
+        font-size: px;
+        margin-top: 20px;
+    }
+
     h1{
         font-size: 16px;
         padding-top: 40px;
     }
 
     .middle{
-        background-image: url("background-6.png");
+        background-image: url("background-2.png");
         background-repeat: no-repeat;
         width: 100%;
     }
